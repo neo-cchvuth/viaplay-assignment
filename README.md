@@ -36,7 +36,6 @@
 - shared/**middlewares**: app middlewares
 - shared/**services**: app services
 - shared/**types**: object types/interfaces
-- **validators**: angular custom form validators
 
 ## Test
 
